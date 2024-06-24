@@ -1,16 +1,7 @@
-# connections_cherished
+# Connections Cherished
 
-A new Flutter project.
+This is my personal flutter project which I am working on. The idea behind this is to provide users with an update on how often they have contacted their friends & loved ones, in the midst of their busy schedules. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Figma
+This is the link to the design:
+https://www.figma.com/design/I6Y4JeiXaOk6fCkR3Kyryt/ConnectionsCherished?node-id=0-1&t=4VkRIgZsEaoIlfkV-1 
